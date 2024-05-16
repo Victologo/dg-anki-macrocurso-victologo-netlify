@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/copywrithing-para-anki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/copywrithing-para-anki/","noteIcon":"","updated":"2024-05-15T22:20:33.700+02:00"}
 ---
 
 
