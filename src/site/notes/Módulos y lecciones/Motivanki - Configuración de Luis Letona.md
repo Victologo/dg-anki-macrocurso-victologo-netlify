@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/motivanki-configuracion-de-luis-letona/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/motivanki-configuracion-de-luis-letona/","noteIcon":"","updated":"2024-05-15T22:20:33.730+02:00"}
 ---
 
 Las siguientes configuraciones expande las posibilidades de uso para este addon. Luego de instalar Motivanki, ir a herramientas → Complementos → Motivanki → Configuración y reemplazar todo el código por las que se muestran
