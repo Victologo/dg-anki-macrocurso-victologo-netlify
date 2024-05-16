@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-13-inteligencia-artificial-anki-macrocurso/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-13-inteligencia-artificial-anki-macrocurso/","noteIcon":"","updated":"2024-05-15T22:20:33.835+02:00"}
 ---
 
 
