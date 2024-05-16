@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-6-codigos-html-css-latex-math-jax-y-java-script-anki-macrocurso/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-6-codigos-html-css-latex-math-jax-y-java-script-anki-macrocurso/","noteIcon":"","updated":"2024-05-15T22:20:33.938+02:00"}
 ---
 
 
