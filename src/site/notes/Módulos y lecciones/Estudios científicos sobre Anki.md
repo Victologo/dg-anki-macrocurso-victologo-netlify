@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/estudios-cientificos-sobre-anki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/estudios-cientificos-sobre-anki/","noteIcon":"","updated":"2024-05-15T22:20:33.719+02:00"}
 ---
 
 
