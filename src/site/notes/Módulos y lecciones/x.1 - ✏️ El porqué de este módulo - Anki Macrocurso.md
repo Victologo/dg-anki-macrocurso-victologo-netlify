@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/x-1-el-porque-de-este-modulo-anki-macrocurso/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/x-1-el-porque-de-este-modulo-anki-macrocurso/","noteIcon":"","updated":"2024-05-15T22:20:34.346+02:00"}
 ---
 
 
