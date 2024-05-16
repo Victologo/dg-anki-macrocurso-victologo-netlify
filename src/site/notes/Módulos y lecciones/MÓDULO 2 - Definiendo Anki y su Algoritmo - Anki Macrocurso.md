@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-2-definiendo-anki-y-su-algoritmo-anki-macrocurso/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-2-definiendo-anki-y-su-algoritmo-anki-macrocurso/","noteIcon":"","updated":"2024-05-15T22:20:33.850+02:00"}
 ---
 
 
