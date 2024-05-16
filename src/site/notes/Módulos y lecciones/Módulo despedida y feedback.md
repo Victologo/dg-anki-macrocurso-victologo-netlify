@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-despedida-y-feedback/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-despedida-y-feedback/","noteIcon":"","updated":"2024-05-15T22:20:34.217+02:00"}
 ---
 
 
