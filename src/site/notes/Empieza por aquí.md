@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/empieza-por-aqui/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-05-15T22:22:14.338+02:00"}
+{"dg-publish":true,"permalink":"/empieza-por-aqui/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-05-16T10:47:19.477+02:00"}
 ---
 
 
