@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/enhance-main-window-configuracion-de-luis-letona/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/enhance-main-window-configuracion-de-luis-letona/","noteIcon":"","updated":"2024-05-15T22:20:33.712+02:00"}
 ---
 
 
