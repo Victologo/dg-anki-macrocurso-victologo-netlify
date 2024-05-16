@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/anki-para-aprender-ingles/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/anki-para-aprender-ingles/","noteIcon":"","updated":"2024-05-15T22:20:33.688+02:00"}
 ---
 
 
