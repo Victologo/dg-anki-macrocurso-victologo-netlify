@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/anki-macrocurso/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/anki-macrocurso/","noteIcon":"","updated":"2024-05-15T22:33:51.876+02:00"}
 ---
 
 
@@ -26,4 +26,4 @@
 # Otros recursos importantes
 - obsdian publish de la bóveda de anki macrocurso
 - [[Módulos y lecciones/Anki para aprender inglés\|Anki para aprender inglés]]
-
+- [Bóveda online desde NetLify](https://dg-anki-macrocurso-victologo.netlify.app/)
