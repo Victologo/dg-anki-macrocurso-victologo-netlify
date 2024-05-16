@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-4-tarjetas-y-tipos-de-notas-anki-macrocurso/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-4-tarjetas-y-tipos-de-notas-anki-macrocurso/","noteIcon":"","updated":"2024-05-15T22:20:33.878+02:00"}
 ---
 
 
