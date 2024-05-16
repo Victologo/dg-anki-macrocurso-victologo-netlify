@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-10-consejos-sobre-el-aprendizaje-con-anki-anki-macrocurso/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-10-consejos-sobre-el-aprendizaje-con-anki-anki-macrocurso/","noteIcon":"","updated":"2024-05-15T22:20:33.750+02:00"}
 ---
 
 
