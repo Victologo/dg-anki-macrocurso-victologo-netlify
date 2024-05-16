@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/ajt-flexible-grading/","noteIcon":""}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/ajt-flexible-grading/","noteIcon":"","updated":"2024-05-15T22:20:33.669+02:00"}
 ---
 
 
