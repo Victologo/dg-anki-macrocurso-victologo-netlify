@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-despedida-y-feedback/","noteIcon":"","updated":"2024-05-15T22:20:34.217+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-despedida-y-feedback/","noteIcon":"","updated":"2024-05-21T21:53:03.243+02:00"}
 ---
 
 
-> [[Módulos y lecciones/Anki Macrocurso\|Anki Macrocurso]]
+> [[Módulos y lecciones/Macrocurso de Anki Premium\|Macrocurso de Anki Premium]]
 
 ---
 
@@ -13,4 +13,4 @@
 
 ---
 
-> [[Módulos y lecciones/Anki Macrocurso\|Anki Macrocurso]]
+> [[Módulos y lecciones/Macrocurso de Anki Premium\|Macrocurso de Anki Premium]]
