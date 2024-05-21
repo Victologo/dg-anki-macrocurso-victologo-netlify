@@ -3,7 +3,7 @@
 ---
 
 
-> [[Módulos y lecciones/7.16 📹 - Enhance main window - Anki Macrocurso\|7.16 📹 - Enhance main window - Anki Macrocurso]]
+> [[7.16 📹 - Enhance main window - Anki Macrocurso\|7.16 📹 - Enhance main window - Anki Macrocurso]]
 
 ---
 
@@ -781,4 +781,4 @@
 
 ---
 
-> [[Módulos y lecciones/7.16 📹 - Enhance main window - Anki Macrocurso\|7.16 📹 - Enhance main window - Anki Macrocurso]]
+> [[7.16 📹 - Enhance main window - Anki Macrocurso\|7.16 📹 - Enhance main window - Anki Macrocurso]]
