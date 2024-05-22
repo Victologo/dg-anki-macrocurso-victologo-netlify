@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-9-gamificacion-y-mejoras-esteticas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T11:48:56.612+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-9-gamificacion-y-mejoras-esteticas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.791+02:00"}
 ---
 
 
