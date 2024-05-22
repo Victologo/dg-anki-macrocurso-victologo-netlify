@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-5-interfaz-de-anki-avanzada-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T11:48:56.307+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-5-interfaz-de-anki-avanzada-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.586+02:00"}
 ---
 
 
