@@ -1,19 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-8-complementos-avanzados-y-especificos-anki-macrocurso/","noteIcon":"","updated":"2024-05-21T22:15:50.652+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-8-complementos-avanzados-y-especificos-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T19:47:24.264+02:00"}
 ---
 
-
-> [[Módulos y lecciones/Macrocurso de Anki Premium\|Macrocurso de Anki Premium]]
-
-> [[Módulos y lecciones/MÓDULO 7 - Complementos esenciales - Anki Macrocurso\|◁ Módulo anterior]] | [[Módulos y lecciones/MÓDULO 9 - Gamificación y mejoras estéticas - Anki Macrocurso\|Próximo módulo ▷]]
-
----
-
-1. [[8.1 - 📹 Introducción al módulo - Anki Macrocurso\|8.1 - 📹 Introducción al módulo - Anki Macrocurso]]
-2. ---
-Created: 01-05-2022 / 20:44:31
-Last Modified: 2024-05-21  / 21:53
----
 
 > [[Módulos y lecciones/Macrocurso de Anki Premium\|Macrocurso de Anki Premium]]
 
@@ -28,7 +16,7 @@ Last Modified: 2024-05-21  / 21:53
 5. [[Módulos y lecciones/8.05 - 📹 Anki Note Linker - Anki Macrocurso\|8.05 - 📹 Anki Note Linker - Anki Macrocurso]]
 6. [[Módulos y lecciones/8.06 - 📹 🔂AnkiRestart - Anki Macrocurso\|8.06 - 📹 🔂AnkiRestart - Anki Macrocurso]]
 7. [[Módulos y lecciones/8.07 - 📹 AnkiWebView Inspector - Anki Macrocurso\|8.07 - 📹 AnkiWebView Inspector - Anki Macrocurso]]
-8. [[Módulos y lecciones/8.08 - 📹 AMBOSS Official - Anki Macrocurso\|8.08 - 📹 AMBOSS Official - Anki Macrocurso]] #luis_letona 
+8. [[Módulos y lecciones/8.08 - 📹 AMBOSS Official - Anki Macrocurso\|8.08 - 📹 AMBOSS Official - Anki Macrocurso]]
 9. [[Módulos y lecciones/8.09 - 📹 Clickable Tags v2.0 - Anki Macrocurso\|8.09 - 📹 Clickable Tags v2.0 - Anki Macrocurso]]
 10. [[Módulos y lecciones/8.10 - 📹 Countdown To Events and Exams - Anki Macrocurso\|8.10 - 📹 Countdown To Events and Exams - Anki Macrocurso]]
 11. [[Módulos y lecciones/8.11 - 📹 Edit Field During Review  (Cloze) - Anki Macrocurso\|8.11 - 📹 Edit Field During Review  (Cloze) - Anki Macrocurso]]
