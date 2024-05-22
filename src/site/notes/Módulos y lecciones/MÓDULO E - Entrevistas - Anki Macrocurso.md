@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-e-entrevistas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T11:48:56.700+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-e-entrevistas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.885+02:00"}
 ---
 
 
