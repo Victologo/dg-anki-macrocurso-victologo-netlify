@@ -9,7 +9,7 @@
 
 ---
 
-[[x.01 - ✏️ El porqué de este módulo - Anki Macrocurso\|x.01 - ✏️ El porqué de este módulo - Anki Macrocurso]]
+[[Módulos y lecciones/x.01 - ✏️ El porqué de este módulo - Anki Macrocurso\|x.01 - ✏️ El porqué de este módulo - Anki Macrocurso]]
 
 
 ---
