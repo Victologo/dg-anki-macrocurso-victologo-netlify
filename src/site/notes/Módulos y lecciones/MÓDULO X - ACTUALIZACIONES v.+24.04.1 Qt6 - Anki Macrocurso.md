@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-x-actualizaciones-v-24-04-1-qt6-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T11:48:56.786+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-x-actualizaciones-v-24-04-1-qt6-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.933+02:00"}
 ---
 
 
