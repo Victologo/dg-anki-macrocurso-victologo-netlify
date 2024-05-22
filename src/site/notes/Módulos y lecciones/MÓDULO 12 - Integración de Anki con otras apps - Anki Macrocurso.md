@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-12-integracion-de-anki-con-otras-apps-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T11:48:55.965+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-12-integracion-de-anki-con-otras-apps-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.275+02:00"}
 ---
 
 
