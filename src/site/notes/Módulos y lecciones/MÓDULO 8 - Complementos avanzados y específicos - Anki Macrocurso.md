@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-8-complementos-avanzados-y-especificos-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T19:47:24.264+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-8-complementos-avanzados-y-especificos-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T21:28:06.563+02:00"}
 ---
 
 
@@ -37,7 +37,7 @@
 26. [[Módulos y lecciones/8.25 - 📹 Pop-up Dictionary - Anki Macrocurso\|8.25 - 📹 Pop-up Dictionary - Anki Macrocurso]]
 27. [[Módulos y lecciones/8.26 - 📹 Progress Graphs and Stats for Learned and Matured Cards - Anki Macrocurso\|8.26 - 📹 Progress Graphs and Stats for Learned and Matured Cards - Anki Macrocurso]]
 28. [[Módulos y lecciones/8.27 - 📹 Review Hotmouse - Anki Macrocurso\|8.27 - 📹 Review Hotmouse - Anki Macrocurso]]
-29. [[Módulos y lecciones/8.28 📹 - Searching, PDF Reading & Note-Taking in Add Dialog - Anki Macrocurso\|8.28 📹 - Searching, PDF Reading & Note-Taking in Add Dialog - Anki Macrocurso]]
+29. [[Módulos y lecciones/8.28 - 📹 Searching, PDF Reading & Note-Taking in Add Dialog - Anki Macrocurso\|8.28 - 📹 Searching, PDF Reading & Note-Taking in Add Dialog - Anki Macrocurso]]
 30. [[Módulos y lecciones/8.29 - 📹 Speed Focus Mode (auto-alert, auto-reveal, auto-answer) - Anki Macrocurso\|8.29 - 📹 Speed Focus Mode (auto-alert, auto-reveal, auto-answer) - Anki Macrocurso]]
 31. [[Módulos y lecciones/8.30 - 📹 SwiftAnki - Anki Macrocurso\|8.30 - 📹 SwiftAnki - Anki Macrocurso]]
 32. [[Módulos y lecciones/8.31 - 📹 Web Browser - Anki Macrocurso\|8.31 - 📹 Web Browser - Anki Macrocurso]]
@@ -95,7 +95,7 @@ Addons a poner a futuro:
 25. [[8.25 - 📹 Pop-up Dictionary\|8.25 - 📹 Pop-up Dictionary]]
 26. [[Módulos y lecciones/8.26 - 📹 Progress Graphs and Stats for Learned and Matured Cards - Anki Macrocurso\|8.26 - 📹 Progress Graphs and Stats for Learned and Matured Cards - Anki Macrocurso]]
 27. [[Módulos y lecciones/8.27 - 📹 Review Hotmouse - Anki Macrocurso\|8.27 - 📹 Review Hotmouse - Anki Macrocurso]]
-28. [[Módulos y lecciones/8.28 📹 - Searching, PDF Reading & Note-Taking in Add Dialog - Anki Macrocurso\|8.28 📹 - Searching, PDF Reading & Note-Taking in Add Dialog - Anki Macrocurso]]
+28. [[Módulos y lecciones/8.28 - 📹 Searching, PDF Reading & Note-Taking in Add Dialog - Anki Macrocurso\|8.28 - 📹 Searching, PDF Reading & Note-Taking in Add Dialog - Anki Macrocurso]]
 29. [[Módulos y lecciones/8.29 - 📹 Speed Focus Mode (auto-alert, auto-reveal, auto-answer) - Anki Macrocurso\|8.29 - 📹 Speed Focus Mode (auto-alert, auto-reveal, auto-answer) - Anki Macrocurso]]
 30. [[8.30 - 📹 SwiftAnki - Quick Anki Navigation with Keyboard Shortcuts - Anki Macrocurso\|8.30 - 📹 SwiftAnki - Quick Anki Navigation with Keyboard Shortcuts - Anki Macrocurso]]
 31. [[8.31 - 📹 Web Browser - Search terms Import texts and images automatically - Anki Macrocurso\|8.31 - 📹 Web Browser - Search terms Import texts and images automatically - Anki Macrocurso]]
