@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-e-entrevistas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.885+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-e-entrevistas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T21:45:29.650+02:00"}
 ---
 
 
@@ -8,11 +8,11 @@
 > [[Módulos y lecciones/MÓDULO 13 - Inteligencia artificial - Anki Macrocurso\|◁ Módulo anterior]] 
 
 ---
-
 **<center>Entrevistas publicadas</center>**
 
 1. E.01 - Luis Letona - Anki Macrocurso
-
+	1. IG: https://www.instagram.com/leto.med
+	2. Correo: lletonaq@gmail.com
 
 **<center>Posibles entrevistados en español (potentes)</center>**
 
@@ -26,6 +26,7 @@
 	- Medicina con Inés
 	- Escuela de la memoria
 	- Clara Carmona
+	- CUALQUIER PERSONA QUE QUIERA AUNQUE SEA NOVATA, CADA UNO PUEDE APORTAR SU PUNTO DE VISTA SOBRE ALGO, SOBRE TODO, CUALQUIER APRENDIZAJE, LAS ENTREVISTAS NO TIENEN POR QUÉ TENER LAS MISMAS PREGUNTAS, YA QUE CADA PERSONA TIENE UN ÁREA MÁS DESARROLLADA CON EL USO DE ANKI QUE OTRA, Y ESO ES LO BONITO
 
 ---
 
