@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-11-anki-droid-y-anki-mobile-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T11:48:55.849+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-11-anki-droid-y-anki-mobile-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.176+02:00"}
 ---
 
 
