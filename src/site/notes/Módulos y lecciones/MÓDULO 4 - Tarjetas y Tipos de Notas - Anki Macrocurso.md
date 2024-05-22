@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-4-tarjetas-y-tipos-de-notas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T11:48:56.163+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-4-tarjetas-y-tipos-de-notas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T14:04:55.897+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 4. [[Módulos y lecciones/4.04 - 📹 Tipo de nota Básico (y tarjeta invertida) - Anki Macrocurso\|4.04 - 📹 Tipo de nota Básico (y tarjeta invertida) - Anki Macrocurso]]
 5. [[Módulos y lecciones/4.05 - 📹 Tipo de nota Básico (tarjeta invertida opcional) - Anki Macrocurso\|4.05 - 📹 Tipo de nota Básico (tarjeta invertida opcional) - Anki Macrocurso]]
 6. [[Módulos y lecciones/4.06 - 📹 Tipo de nota Básico (teclear la respuesta) - Anki Macrocurso\|4.06 - 📹 Tipo de nota Básico (teclear la respuesta) - Anki Macrocurso]]
-7. [[Módulos y lecciones/4.07 - 📹 Tipo de nota Respuesta anidada - Anki Macrocurso\|4.07 - 📹 Tipo de nota Respuesta anidada - Anki Macrocurso]]
+7. [[Módulos y lecciones/4.07 - 📹 Tipo de nota Respuesta anidada (Cloze Deletion) - Anki Macrocurso\|4.07 - 📹 Tipo de nota Respuesta anidada (Cloze Deletion) - Anki Macrocurso]]
 8. [[Módulos y lecciones/4.08 - 📹 Adiministrar tipos de notas - Anki Macrocurso\|4.08 - 📹 Adiministrar tipos de notas - Anki Macrocurso]]
 9. [[Módulos y lecciones/4.9 - 📹 Tipo de nota Image Occlusion sencillo - Anki Macrocurso\|4.9 - 📹 Tipo de nota Image Occlusion sencillo - Anki Macrocurso]]
 10. [[Módulos y lecciones/4.10 - 📹 Tipo de nota Image Occlusion avanzado - Anki Macrocurso\|4.10 - 📹 Tipo de nota Image Occlusion avanzado - Anki Macrocurso]]
