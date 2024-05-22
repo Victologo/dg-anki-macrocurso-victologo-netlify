@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-10-consejos-sobre-el-aprendizaje-con-anki-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.104+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-10-consejos-sobre-el-aprendizaje-con-anki-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T20:31:17.456+02:00"}
 ---
 
 
-> [[Cursos - Anki premium\|Cursos - Anki premium]]
+> [[Módulos y lecciones/Macrocurso de Anki Premium\|Macrocurso de Anki Premium]]
 
 > [[Módulos y lecciones/MÓDULO 9 - Gamificación y mejoras estéticas - Anki Macrocurso\|◁ Módulo anterior]] | [[Módulos y lecciones/MÓDULO 11 - AnkiDroid (y AnkiMobile) - Anki Macrocurso\|Próximo módulo ▷]]
 
@@ -29,22 +29,11 @@
 18. [[Módulos y lecciones/10.18 - ✏️ Mide tu progreso - Anki Macrocurso\|10.18 - ✏️ Mide tu progreso - Anki Macrocurso]]
 19. [[Módulos y lecciones/10.19 - ✏️ Diseño de preguntas tipo test eficaces - Anki Macrocurso\|10.19 - ✏️ Diseño de preguntas tipo test eficaces - Anki Macrocurso]]
 
-
-
----
-
-<center>Posibles futuras lecciones</center>
-
-1. [[Mejorar la comprensión\|Mejorar la comprensión]]
-2. [[Mi istema de aprendizaje con Anki\|Mi istema de aprendizaje con Anki]]
-3. [[Minimalismo en Anki - porque hay muchos complementos, tipos de nota...\|Minimalismo en Anki - porque hay muchos complementos, tipos de nota...]]
-4. 
-
 ---
 
 > [[Módulos y lecciones/MÓDULO 9 - Gamificación y mejoras estéticas - Anki Macrocurso\|◁ Módulo anterior]] | [[Módulos y lecciones/MÓDULO 11 - AnkiDroid (y AnkiMobile) - Anki Macrocurso\|Próximo módulo ▷]]
 
-> [[Cursos - Anki premium\|Cursos - Anki premium]]
+> [[Módulos y lecciones/Macrocurso de Anki Premium\|Macrocurso de Anki Premium]]
 
 ---
 
