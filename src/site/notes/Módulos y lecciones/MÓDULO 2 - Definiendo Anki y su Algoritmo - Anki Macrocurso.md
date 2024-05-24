@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-2-definiendo-anki-y-su-algoritmo-anki-macrocurso/","noteIcon":"","updated":"2024-05-21T21:55:18.443+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-2-definiendo-anki-y-su-algoritmo-anki-macrocurso/","noteIcon":"","updated":"2024-05-24T16:38:51.449+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 2. [[Módulos y lecciones/2.02 - 📹 Qué es Anki - Anki Macrocurso\|2.02 - 📹 Qué es Anki - Anki Macrocurso]]
 3. [[Módulos y lecciones/2.03 - ✏️ Creencias erróneas extendidas sobre Anki - Anki Macrocurso\|2.03 - ✏️ Creencias erróneas extendidas sobre Anki - Anki Macrocurso]]
 4. [[Módulos y lecciones/2.04 - 📹 Descargar e Instalar Anki - Anki Macrocurso\|2.04 - 📹 Descargar e Instalar Anki - Anki Macrocurso]]
-5. [[Módulos y lecciones/2.05 - 📹 Funcionamiento del algoritmo de Anki - Anki Macrocurso\|2.05 - 📹 Funcionamiento del algoritmo de Anki - Anki Macrocurso]]
+5. [[Módulos y lecciones/2.05 - 📹 Funcionamiento del algoritmo de Anki (SM-2) - Anki Macrocurso\|2.05 - 📹 Funcionamiento del algoritmo de Anki (SM-2) - Anki Macrocurso]]
 6. [[Módulos y lecciones/2.06 - ✏️ Aprendizaje vs. Revisión - Anki Macrocurso\|2.06 - ✏️ Aprendizaje vs. Revisión - Anki Macrocurso]]
 7. [[Módulos y lecciones/2.07 - ✏️ Estudiando con algoritmo o sin él - Anki Macrocurso\|2.07 - ✏️ Estudiando con algoritmo o sin él - Anki Macrocurso]]
 8. [[Módulos y lecciones/2.08 - ✏️ Recomendaciones para ajustar el algoritmo - Anki Macrocurso\|2.08 - ✏️ Recomendaciones para ajustar el algoritmo - Anki Macrocurso]]
