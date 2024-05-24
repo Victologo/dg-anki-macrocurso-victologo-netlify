@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-10-consejos-sobre-el-aprendizaje-con-anki-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T20:31:17.456+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-10-consejos-sobre-el-aprendizaje-con-anki-anki-macrocurso/","noteIcon":"","updated":"2024-05-24T16:15:56.960+02:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 5. [[Módulos y lecciones/10.05 - ✏️ Atacar una temática desde varios ángulos - Anki Macrocurso\|10.05 - ✏️ Atacar una temática desde varios ángulos - Anki Macrocurso]]
 6. [[Módulos y lecciones/10.06 - 📹 Crear flascards más rápidamente - Anki Macrocurso\|10.06 - 📹 Crear flascards más rápidamente - Anki Macrocurso]]
 7. [[Módulos y lecciones/10.07 - ✏️ PDF con ejemplos de malas flashcards y buenas - Anki Macrocurso\|10.07 - ✏️ PDF con ejemplos de malas flashcards y buenas - Anki Macrocurso]]
-8. [[Módulos y lecciones/10.08 - ✏️ Uso estratégico de las banderas de marcage (flags) - Anki Macrocurso\|10.08 - ✏️ Uso estratégico de las banderas de marcage (flags) - Anki Macrocurso]]
+8. [[Módulos y lecciones/10.08 - ✏️ Uso estratégico de las banderas de marcaje (flags) - Anki Macrocurso\|10.08 - ✏️ Uso estratégico de las banderas de marcaje (flags) - Anki Macrocurso]]
 9. [[Módulos y lecciones/10.09 - ✏️ Uso estratégico del enterramiento de tarjetas - Anki Macrocurso\|10.09 - ✏️ Uso estratégico del enterramiento de tarjetas - Anki Macrocurso]]
 10. [[Módulos y lecciones/10.10 - ✏️ Uso estratégico de la suspensión de tarjetas - Anki Macrocurso\|10.10 - ✏️ Uso estratégico de la suspensión de tarjetas - Anki Macrocurso]]
 11. [[Módulos y lecciones/10.11 - 📹 Resolver la acumulación de tarjetas en un mazo - Anki Macrocurso\|10.11 - 📹 Resolver la acumulación de tarjetas en un mazo - Anki Macrocurso]]
