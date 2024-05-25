@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-e-entrevistas-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T21:45:29.650+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-e-entrevistas-anki-macrocurso/","noteIcon":"","updated":"2024-05-25T14:56:07.248+02:00"}
 ---
 
 
@@ -10,9 +10,7 @@
 ---
 **<center>Entrevistas publicadas</center>**
 
-1. E.01 - Luis Letona - Anki Macrocurso
-	1. IG: https://www.instagram.com/leto.med
-	2. Correo: lletonaq@gmail.com
+1. [[Módulos y lecciones/E.01 - Luis Letona - Anki Macrocurso\|E.01 - Luis Letona - Anki Macrocurso]]
 
 **<center>Posibles entrevistados en español (potentes)</center>**
 
