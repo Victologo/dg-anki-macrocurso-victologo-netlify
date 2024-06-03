@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-3-interfaz-de-anki-basica-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.438+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-3-interfaz-de-anki-basica-anki-macrocurso/","noteIcon":"","updated":"2024-06-03T19:46:34.398+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 2. [[Módulos y lecciones/3.02 - 📹 Interfaz básica de Anki - Anki Macrocurso\|3.02 - 📹 Interfaz básica de Anki - Anki Macrocurso]]
 3. [[Módulos y lecciones/3.03 - 📹 Perfiles - Anki Macrocurso\|3.03 - 📹 Perfiles - Anki Macrocurso]]
 4. [[Módulos y lecciones/3.04 - 📹 Sincronización entre dispositivos mediante Ankiweb - Anki Macrocurso\|3.04 - 📹 Sincronización entre dispositivos mediante Ankiweb - Anki Macrocurso]]
-5. [[Módulos y lecciones/3.05 - 📹 Tarjetas, Editar y Más (botones) - Anki Macrocurso\|3.05 - 📹 Tarjetas, Editar y Más (botones) - Anki Macrocurso]]
+5. [[Módulos y lecciones/3.05 - 📹 Editar y Más (botones) - Anki Macrocurso\|3.05 - 📹 Editar y Más (botones) - Anki Macrocurso]]
 6. [[Módulos y lecciones/3.06 - 📹 Exportar e importar - Anki Macrocurso\|3.06 - 📹 Exportar e importar - Anki Macrocurso]]
 7. [[Módulos y lecciones/3.07 - 📹 Mazos compartidos o prediseñados (Shared decks) - Anki Macrocurso\|3.07 - 📹 Mazos compartidos o prediseñados (Shared decks) - Anki Macrocurso]]
 
