@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-12-integracion-de-anki-con-otras-apps-anki-macrocurso/","noteIcon":"","updated":"2024-05-22T13:35:21.275+02:00"}
+{"dg-publish":true,"permalink":"/modulos-y-lecciones/modulo-12-integracion-de-anki-con-otras-apps-anki-macrocurso/","noteIcon":"","updated":"2024-06-03T19:29:08.345+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 2. [[Módulos y lecciones/12.02 - 📹 Excel (.csv) y Anki - Anki Macrocurso\|12.02 - 📹 Excel (.csv) y Anki - Anki Macrocurso]]
 3. [[Módulos y lecciones/12.03 - 📹  Quizlet - Anki Macrocurso\|12.03 - 📹  Quizlet - Anki Macrocurso]] 
 4. [[Módulos y lecciones/12.04 - 📹 Notion - Anki Macrocurso\|12.04 - 📹 Notion - Anki Macrocurso]]
-5. [[Módulos y lecciones/12.05 - 📹 Remmnote a Anki - Anki Macrocurso\|12.05 - 📹 Remmnote a Anki - Anki Macrocurso]]
+5. [[Módulos y lecciones/12.05 - 📹 RemNote a Anki - Anki Macrocurso\|12.05 - 📹 RemNote a Anki - Anki Macrocurso]]
 6. [[Módulos y lecciones/12.06 - 📹 Obsidian y Anki - Anki Macrocurso\|12.06 - 📹 Obsidian y Anki - Anki Macrocurso]]
 7. [[Módulos y lecciones/12.07 - 📹 Word y Anki - Anki Macrocurso\|12.07 - 📹 Word y Anki - Anki Macrocurso]] 
 
